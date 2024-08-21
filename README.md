@@ -31,6 +31,6 @@ Use EDA to understand how consumer attributes and loan attributes influence the 
 Following files has been inlcluded as a part of solutions:
 
 - READ.me file for Problem discriptions.
-- Lending_Club_Case_Study.ipynb ipython file for analysis.
+- Group_Facilitator_Name.ipynb ipython file for analysis.
 - Lending Club Case Study.pdf for presentation.
 - Loan.csv file.
