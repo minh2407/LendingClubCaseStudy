@@ -13,24 +13,24 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 Use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
 
 ## Summary 
-Step 1: Data Cleaning 1
-Step 2: Univariate Analysis
-Step 3: Segemented Univariate Analysis
-Step 4: Bivaraiate Analysis
-Step 5: Correlation Analysis
-Step 6: Conclusion & Recommendation
+- Step 1: Data Cleaning 1
+- Step 2: Univariate Analysis
+- Step 3: Segemented Univariate Analysis
+- Step 4: Bivaraiate Analysis
+- Step 5: Correlation Analysis
+- Step 6: Conclusion & Recommendation
 
 ## Technologies Used
-Pandas - version 1.3.4
-NumPy - version 1.20.3
-Seaborn - version 0.11.2
-MatplotLib - version 3.4.3
-Plotly - version 5.7.0
+- Pandas - version 1.3.4
+- NumPy - version 1.20.3
+- Seaborn - version 0.11.2
+- MatplotLib - version 3.4.3
+- Plotly - version 5.7.0
 
 ## Content
 Following files has been inlcluded as a part of solutions:
 
-READ.me file for Problem discriptions.
-Lending_Club_Case_Study.ipynb ipython file for analysis.
-Lending Club Case Study.pdf for presentation.
-Loan.csv file.
+- READ.me file for Problem discriptions.
+- Lending_Club_Case_Study.ipynb ipython file for analysis.
+- Lending Club Case Study.pdf for presentation.
+- Loan.csv file.
